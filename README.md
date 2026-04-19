@@ -23,7 +23,7 @@ The following controls were evaluated:
 - Physical security
 
 ### Controls Audit Screenshot
-![Controls Audit](screenshots/controls-audit.png)
+![Controls Audit](screenshots/controls_audit.png)
 
 ---
 
@@ -36,7 +36,7 @@ Frameworks evaluated:
 - SOC 2
 
 ### Compliance Screenshot
-![Compliance Audit](screenshots/compliance-audit.png)
+![Compliance Audit](screenshots/compliance_audit.png)
 
 ---
 
