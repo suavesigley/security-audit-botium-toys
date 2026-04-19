@@ -45,7 +45,7 @@ Frameworks evaluated:
 Security risks identified and categorized.
 
 ### Risk Screenshot
-![Risk Assessment](screenshots/risk_assessment.png)
+![Risk Assessment](screenshots/risk_assesment.png)
 
 ---
 
