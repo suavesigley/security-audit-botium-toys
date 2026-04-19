@@ -45,7 +45,7 @@ Frameworks evaluated:
 Security risks identified and categorized.
 
 ### Risk Screenshot
-![Risk Assessment](screenshots/risk-assessment.png)
+![Risk Assessment](screenshots/risk_assessment.png)
 
 ---
 
@@ -54,7 +54,8 @@ Security risks identified and categorized.
 Security improvements prioritized based on risk severity.
 
 ### Recommendations Screenshot
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/Recommendations.png)
+![Risk reduction & priority order](screenshots/risk_reduction.png)
 
 ---
 
